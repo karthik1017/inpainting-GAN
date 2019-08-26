@@ -1,0 +1,21 @@
+project title: image inpainting using GAN
+
+abstract:
+content-aware fill is a powerful tool used to fill in unwanted or missing parts of images. image inpainting is a technology used to fill in missing or corrupted parts of images. this can be used by - photographers to edit their images, security personnel to fill in missing parts of a person's face. wihtout an inpainting tool, these things cannot be done efficiently. through our project, we provide a solution by creating an image inpainting tool using DCGAN, which fills up missing parts of images, and removes unwanted objects from an image. the tool provides an interactive user interface where the user can upload an image and choose which parts of it to fill or remove. 
+
+software requirements: 
+technologies: 
+tensorflow, python 3 
+
+tools: some text editor or IDE
+
+
+hardware: 
+training: 
+google GPU clusters, 10GB Disk space, 8GB RAM
+
+testing the model/ running the application with a trained model:
+dual-core processor
+4GB RAM, 10GB disk space
+
+
