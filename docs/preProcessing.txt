@@ -1,0 +1,1 @@
+./openface/util/align-dlib.py inpainting-GAN/dataset/raw align innerEyesAndBottomLip inpainting-GAN/dataset/aligned --size 64
